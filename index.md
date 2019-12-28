@@ -24,6 +24,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+[Link](https://kakaopark.blogspot.com)
 ```
 [<iframe src="https://kakaopark.blogspot.com"></iframe>]
 
